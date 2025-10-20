@@ -1,6 +1,13 @@
 button {
   border-radius: 100px 100px 100px 100px;
+  background-color: pink;
+  color: blue;
+  padding: 150px;
 }
 p {
   border: solid 100px 100px 100px 100px;
+}
+
+body{
+  background-color: azure;
 }
