@@ -1,5 +1,5 @@
 button {
-  margine-slide: 100px 100px 100px 100px;
+  border-radius: 100px 100px 100px 100px;
 }
 p {
   border: solid 100px 100px 100px 100px;
