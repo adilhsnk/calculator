@@ -5,7 +5,7 @@ button {
   padding: 150px;
 }
 p {
-  border: solid 100px 100px 100px 100px;
+  border: 100px solid black;
 }
 
 body{
